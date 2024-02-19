@@ -1,0 +1,10 @@
+AI stands for Artificial Intelligence, which refers to the ability of machines to perform tasks that typically require human intelligence 
+Al-Jazari was a Muslim inventor who lived during the 12 century AD He designed a number of automata,including a humanoid musician, amechanical peacock, and a water clockthat featured humanoid figures thatmoved and played music.
+Artificial Narrow Intelligence , Artificial General Intelligence , Artificial Super Intelligence
+machine learning , natural language processing , computer vision , robotics 
+Machine learning is a subset of AI that involves creating algorithms and models that can learn from data and improve their performance over time.
+supervised , unsupervised , reinforcement learning
+ Regression In regression, the output data is continuous, and the goal is to learn a function that can predict a numeric value for new input data .  Classification In classification, the output data is categorical, and the goal is to learn a function that can predict a class label for new input data. 
+data mining, image and speech processing, and recommendation systems. 
+Clustering: In clustering, the algorithm groups similar data points together into clusters based on some similarity metric. Dimensionality reduction: In dimensionality reduction, the algorithm reduces the number of features in the input data while preserving as much information as possible. Anomaly detection: In anomaly detection, the algorithm identifies data points that are significantly different from the rest of the data. Anomaly detection can be used for tasks such as fraud detection and fault diagnosis.
+depends on the student opinion .
